@@ -1,16 +1,13 @@
 # flutter_chatgpt_app
 
-A new Flutter project.
+A flutter project to use chatGPT by voice.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Create a `.env` file in the root path with a`API_KEY` value:
 
-A few resources to get you started if this is your first Flutter project:
+```
+API_KEY=[YOUR_OPENAI_API_KEY]
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So you can run the project or build for your devide.
